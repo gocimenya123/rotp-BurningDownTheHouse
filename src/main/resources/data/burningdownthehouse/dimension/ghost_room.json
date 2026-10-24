@@ -1,0 +1,20 @@
+{
+  "type": "burningdownthehouse:ghost_room",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "layers": [
+        {
+          "height": 1,
+          "block": "minecraft:bedrock"
+        }
+      ],
+      "biome": "minecraft:the_void",
+      "lakes": false,
+      "features": false,
+      "structures": {
+        "structures": {}
+      }
+    }
+  }
+}

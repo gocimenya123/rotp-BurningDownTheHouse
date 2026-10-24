@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "burningdownthehouse:block/ghost_wall"
+  }
+}
